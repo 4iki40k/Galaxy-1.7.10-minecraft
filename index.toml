@@ -17,6 +17,10 @@ file = "config/smoothfont/smoothfont.cfg"
 hash = "945b0925c47388414eb30ce92bbf92d58d6816bfa8a547d61c36ed3305aedf83"
 
 [[files]]
+file = "fontfiles/Minecraft 1.1.ttf"
+hash = "702eb1c74b7bb484b8d40d4ecdcebb8b7021e5eebed3c8cf669464e9d8702c31"
+
+[[files]]
 file = "mods/1.7.10/bspkrscore.pw.toml"
 hash = "4f817806167f7b13e933b98928a698b9db0a8337af286d03c98ea13a8662a7b8"
 metafile = true

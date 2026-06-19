@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "README.md"
-hash = "9d603d3ea8dce2f6eb699ecedf0cbcca59738850332d61a5f515379d4c57dd7e"
-
-[[files]]
 file = "config/GalaxySpace/core.conf"
 hash = "3582f0bc25bf9d45a49f8fb817b90796c7efdc011b7a987c5dd3bc0c0e0e188f"
 
@@ -197,7 +193,3 @@ metafile = true
 file = "mods/waila.pw.toml"
 hash = "1ce389a8d9488dd7d37490c1498d10412b7430b18cc0faa28f47afc9cf896b57"
 metafile = true
-
-[[files]]
-file = "server-setup.sh"
-hash = "79b21d83255af1fff0c270b1fdcecfba7b255aa2926b91a56d4dc8e2c43b81be"

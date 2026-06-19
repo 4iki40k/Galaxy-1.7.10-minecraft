@@ -1,0 +1,4 @@
+.git/
+.gitignore
+server-setup.sh
+README.md

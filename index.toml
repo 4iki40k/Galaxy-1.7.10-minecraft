@@ -5,6 +5,18 @@ file = "config/GalaxySpace/core.conf"
 hash = "3582f0bc25bf9d45a49f8fb817b90796c7efdc011b7a987c5dd3bc0c0e0e188f"
 
 [[files]]
+file = "config/angelica-compat.cfg"
+hash = "8fb980ebc911f6de9bc9493a917dc3a3084ec653434f935c117b4b8d6a7fe20a"
+
+[[files]]
+file = "config/angelica-modules.cfg"
+hash = "4669ae479d88f327aea94cb187d20fa2203abffb3520f9ec8d7136b3322542d9"
+
+[[files]]
+file = "config/smoothfont/smoothfont.cfg"
+hash = "945b0925c47388414eb30ce92bbf92d58d6816bfa8a547d61c36ed3305aedf83"
+
+[[files]]
 file = "mods/1.7.10/bspkrscore.pw.toml"
 hash = "4f817806167f7b13e933b98928a698b9db0a8337af286d03c98ea13a8662a7b8"
 metafile = true

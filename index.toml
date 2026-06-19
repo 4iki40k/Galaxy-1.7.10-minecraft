@@ -1,8 +1,22 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "9d603d3ea8dce2f6eb699ecedf0cbcca59738850332d61a5f515379d4c57dd7e"
+
+[[files]]
 file = "config/GalaxySpace/core.conf"
 hash = "3582f0bc25bf9d45a49f8fb817b90796c7efdc011b7a987c5dd3bc0c0e0e188f"
+
+[[files]]
+file = "mods/1.7.10/bspkrscore.pw.toml"
+hash = "4f817806167f7b13e933b98928a698b9db0a8337af286d03c98ea13a8662a7b8"
+metafile = true
+
+[[files]]
+file = "mods/1.7.10/forge-multi-part.pw.toml"
+hash = "9681e0415a681994c0e6455828160ac82395fb48c1ccec3a1c5ff92af93c1be4"
+metafile = true
 
 [[files]]
 file = "mods/applied-energistics-2.pw.toml"
@@ -17,11 +31,6 @@ metafile = true
 [[files]]
 file = "mods/betterfps.pw.toml"
 hash = "14fa4fac8d12ca6bef0104a0666256dc8c24b7693672d6be4e31c4d543c26007"
-metafile = true
-
-[[files]]
-file = "mods/bspkrscore.pw.toml"
-hash = "4f817806167f7b13e933b98928a698b9db0a8337af286d03c98ea13a8662a7b8"
 metafile = true
 
 [[files]]
@@ -57,11 +66,6 @@ metafile = true
 [[files]]
 file = "mods/forestry.pw.toml"
 hash = "e2a1810cc0353e445c9e210f82f355e49f9d440aec1165b94e1e0248f3b322da"
-metafile = true
-
-[[files]]
-file = "mods/forge-multi-part.pw.toml"
-hash = "9681e0415a681994c0e6455828160ac82395fb48c1ccec3a1c5ff92af93c1be4"
 metafile = true
 
 [[files]]
@@ -193,3 +197,7 @@ metafile = true
 file = "mods/waila.pw.toml"
 hash = "1ce389a8d9488dd7d37490c1498d10412b7430b18cc0faa28f47afc9cf896b57"
 metafile = true
+
+[[files]]
+file = "server-setup.sh"
+hash = "79b21d83255af1fff0c270b1fdcecfba7b255aa2926b91a56d4dc8e2c43b81be"

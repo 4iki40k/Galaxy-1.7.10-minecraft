@@ -18,11 +18,11 @@ hash = "8fb980ebc911f6de9bc9493a917dc3a3084ec653434f935c117b4b8d6a7fe20a"
 
 [[files]]
 file = "config/angelica-modules.cfg"
-hash = "4669ae479d88f327aea94cb187d20fa2203abffb3520f9ec8d7136b3322542d9"
+hash = "d44c783c6fddd422166d8501fc525670e7370772b2094a139b6db57bd808833d"
 
 [[files]]
-file = "config/smoothfont/smoothfont.cfg"
-hash = "945b0925c47388414eb30ce92bbf92d58d6816bfa8a547d61c36ed3305aedf83"
+file = "config/angelica.cfg"
+hash = "df2fde7c7c6848e0d9adc284bfb1ea1f5e58b0330ae2ed143294e02da5986a3a"
 
 [[files]]
 file = "fontfiles/Minecraft 1.1.ttf"
@@ -43,7 +43,7 @@ metafile = true
 
 [[files]]
 file = "mods/angelica.pw.toml"
-hash = "4795a566900ff079ef1507353ff9d86f3eb131fb00d3da62b1fa468f56c5c0a8"
+hash = "d862ea0cfeb9919d4adc4c0cff7715597f1ca88c588631705fa849ec97d0fb17"
 metafile = true
 
 [[files]]
@@ -209,11 +209,6 @@ metafile = true
 [[files]]
 file = "mods/railcraft.pw.toml"
 hash = "5614fb3ab583f05339d85c124289c167ee3f7b761fed208a30fc7e8a3d26441a"
-metafile = true
-
-[[files]]
-file = "mods/smooth-font.pw.toml"
-hash = "317f48d5b1c4ec7cb0e949d7fa54eb0df8f13a5b11b0134524f29f6b272f123c"
 metafile = true
 
 [[files]]
